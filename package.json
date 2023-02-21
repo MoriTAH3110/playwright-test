@@ -1,0 +1,21 @@
+{
+  "name": "playwright-test",
+  "version": "1.0.0",
+  "description": "Setting a base repository for day 5 of becoming a test engineer",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoriTAH3110/playwright-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoriTAH3110/playwright-test/issues"
+  },
+  "homepage": "https://github.com/MoriTAH3110/playwright-test#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.30.0"
+  }
+}
